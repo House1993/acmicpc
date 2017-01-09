@@ -1,0 +1,9 @@
+#idea clion pycharm
+.idea/
+
+#cmake
+cmake-build-debug/
+CMakeLists.txt
+
+#test
+main.cpp
