@@ -2,6 +2,11 @@
 // Created by 房籽呈 on 2017/1/24.
 //
 
+/**
+ * 题解：
+ * http://blog.csdn.net/houserabbit/article/details/54783019
+ */
+
 class Solution {
 public:
     vector <string> generateParenthesis(int n) {
