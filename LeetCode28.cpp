@@ -3,6 +3,11 @@
 //
 
 /**
+ * 题解：
+ * http://blog.csdn.net/houserabbit/article/details/54783105
+ */
+
+/**
  * kmp 版本
  */
 class Solution {

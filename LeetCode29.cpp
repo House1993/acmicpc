@@ -2,6 +2,11 @@
 // Created by 房籽呈 on 2017/1/25.
 //
 
+/**
+ * 题意：
+ * http://blog.csdn.net/houserabbit/article/details/54783137
+ */
+
 class Solution {
 public:
     int divide(int dividend, int divisor) {
